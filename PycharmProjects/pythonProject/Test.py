@@ -42,7 +42,6 @@ def calcula(a, b, escolha):
         print("\n deseja sair? 1(não) ou 0(sair)")
         saida = int(input())
     if saida == 1:
-        print("Ué")
         menu()
     elif saida == 0:
         quit()
